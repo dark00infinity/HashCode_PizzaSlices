@@ -1,2 +1,2 @@
-# HashCode_PizzaSlices
- Practice_problem
+# HashCode_PizzaSlices 2020
+ Practice_problem_solution
